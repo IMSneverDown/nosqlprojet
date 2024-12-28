@@ -1,0 +1,20 @@
+{
+  "name": "backend_nosql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/server": "^4.11.2",
+    "@as-integrations/aws-lambda": "^3.1.0",
+    "@neo4j/graphql": "^6.2.3",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.10.0",
+    "neo4j-driver": "^5.27.0"
+  }
+}
